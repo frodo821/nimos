@@ -2,3 +2,4 @@ build/
 postcompile/
 emu/
 syslinux/
+kernel.c32
