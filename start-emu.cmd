@@ -1,0 +1,1 @@
+@qemu-system-x86_64 -m 1G -M q35 -boot d  -drive file=./emu/harddisk.vhdx,media=disk,cache=writeback -cdrom build/output.iso
